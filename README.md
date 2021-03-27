@@ -1,8 +1,7 @@
-<center>
+
 <a href="https://github.com/wildysheverando-project/autoscript/">
-   <img src="Image/os.png">
+   <center><img src="Image/os.png"></center>
 </a>
-</center>
     
 ## ❗ OS Supported Information ❗
 <b>
