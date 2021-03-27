@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+
+<!---- © Copyright 2021 By Wildy Sheverando ------>
+
 <p align="center">
 <a href="https://github.com/wildysheverando-project/autoscript/">
   <img src="Image/os.png">
