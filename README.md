@@ -1,13 +1,13 @@
 
 ## OS Supported Information
 
-> Debian 8 (X86_64) (X86) (X64)<br>
-> Debian 9 (X86_64) (X86) (X64)<br>
-> Debian 10 (X86_64) (X86) (X64)<br>
-> Ubuntu 16.04 (X86_64) (X86) (X64)<br>
-> Ubuntu 18.04 (X86_64) (X86) (X64)<br>
-> Ubuntu 20.04 (X86_64) (X86) (X64)<br>
-> Ubuntu 20.10 (X86_64) (X86) (X64)<br>
+> ✔ Debian 8 (X86_64) (X86) (X64)<br>
+> ✔ Debian 9 (X86_64) (X86) (X64)<br>
+> ✔ Debian 10 (X86_64) (X86) (X64)<br>
+> ✔ Ubuntu 16.04 (X86_64) (X86) (X64)<br>
+> ✔ Ubuntu 18.04 (X86_64) (X86) (X64)<br>
+> ✔ Ubuntu 20.04 (X86_64) (X86) (X64)<br>
+> ✔ Ubuntu 20.10 (X86_64) (X86) (X64)<br>
 
 ### Copyright & License 
 
