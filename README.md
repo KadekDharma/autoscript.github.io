@@ -64,6 +64,9 @@
 > 🔸 Port 7300 = BadVPN<br>
 </b>
 
+### PLEASE READ AFTER USE THIS SCRIPT
+> ❌ THIS SCRIPT IS NOT FOR SALE ( FREE FOR PERSONAL USE ) <br> 
+
 ### ❤ Copyright & License ❤
 
 <b>© Copyright 2021 by WildySheverando (https://github.com/wildysheverando-project/autoscript)</b> <br>
