@@ -72,7 +72,7 @@
 
 ### 😍 THANKS ( NOTES ) 😍
 <b>
-Thank Very Much To Horas Siregar ( From VPNSTORES ) & The Hoster ( From Fastssh ) 
+Thank Very Much To Horas Siregar ( From VPNSTORES ) & The Hoster ( From Fastssh ) <br>
 Nico_Joy ( From Fastssh ) For Helping / Giving Solution In Creating This Script
 </b>
 
