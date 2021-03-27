@@ -70,6 +70,9 @@
 ❌ IF I KNOW SELLING THIS SCRIPT I WILL TURN OFF THIS SCRIPT <br>
 </b>
 
+### 
+Thank Very Much To Horas & The Hoster For Helping / Giving Solution In Creating This Script
+
 ### ❤ Copyright & License ❤
 
 <b>© Copyright 2021 by WildySheverando (https://github.com/wildysheverando-project/autoscript)</b> <br>
