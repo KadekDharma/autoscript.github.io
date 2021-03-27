@@ -30,6 +30,7 @@
 ✔ Squid3<br>
 ✔ V2Ray 4.36.2<br>
 ✔ Trojan-gfw 1.16.0<br>
+✔ Anti Torrent ( Firewall Blocked ) <br>
 ✔ DDOS Flate <br>
 ✔ AutoExpired User ( SSH )<br>
 ✔ Userdel ( SSH )<br>
