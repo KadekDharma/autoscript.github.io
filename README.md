@@ -14,19 +14,19 @@
 
 
 ## ❗ Port Information ❗
-> 🔸 Port 22 = OpenSSH
-> 🔸 Port 110 = DropBear
-> 🔸 Port 143 = DropBear
-> 🔸 Port 443 = Stunnel4
-> 🔸 Port 990 = Stunnel4
-> 🔸 Port 8080 = Squid
-> 🔸 Port 3128 = Squid
-> 🔸 Port 1945 = V2Ray HTTPS ( TLS V2Ray )
-> 🔸 Port 80 = V2Ray HTTP ( NonTLS V2Ray )
-> 🔸 Port 442 = Trojan TLS ( trojan-gfw )
-> 🔸 Port 7100 = BadVPN 
-> 🔸 Port 7200 = BadVPN
-> 🔸 Port 7300 = BadVPN
+> 🔸 Port 22 = OpenSSH<br>
+> 🔸 Port 110 = DropBear<br>
+> 🔸 Port 143 = DropBear<br>
+> 🔸 Port 443 = Stunnel4<br>
+> 🔸 Port 990 = Stunnel4<br>
+> 🔸 Port 8080 = Squid<br>
+> 🔸 Port 3128 = Squid<br>
+> 🔸 Port 1945 = V2Ray HTTPS ( TLS V2Ray )<br>
+> 🔸 Port 80 = V2Ray HTTP ( NonTLS V2Ray )<br>
+> 🔸 Port 442 = Trojan TLS ( trojan-gfw )<br>
+> 🔸 Port 7100 = BadVPN <br>
+> 🔸 Port 7200 = BadVPN<br>
+> 🔸 Port 7300 = BadVPN<br>
 
 ### ❤ Copyright & License ❤
 
