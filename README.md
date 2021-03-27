@@ -87,4 +87,12 @@ Nico_Joy ( From Fastssh ) For Helping / Giving Solution In Creating This Script
 <b>Licensed under the terms of the ( GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 )</b>
 
 ### ⏩ Usage / Installation ⏪
-> wget bla bla belum siap goblok
+> rm -f setup.sh && wget https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/setup.sh && chmod +x setup.sh && ./setup.sh
+
+### Moral Donation
+If you want to help develop this project, you can donate as sincere as possible
+<b>
+▶ Paypal : paypal.me/wildyvpnscript<br>
+▶ Dana   : 0858-3087-8000
+<b>
+Thanks
