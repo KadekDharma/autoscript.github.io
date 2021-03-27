@@ -12,6 +12,7 @@
 > ❌ Centos 7 ( Not Supported )<br>
 > ❌ Centos 8 ( Not Supported ) <br>
 </b>
+
 ## 🔰 Feature Script 🔰
 <b>
 > ✔ SSH / Tunneling<br>
@@ -42,6 +43,7 @@
 </b>
 
 ## 🔰 Port Information 🔰
+<b>
 > 🔸 Port 22 = OpenSSH<br>
 > 🔸 Port 110 = DropBear<br>
 > 🔸 Port 143 = DropBear<br>
@@ -55,6 +57,7 @@
 > 🔸 Port 7100 = BadVPN <br>
 > 🔸 Port 7200 = BadVPN<br>
 > 🔸 Port 7300 = BadVPN<br>
+</b>
 
 ### ❤ Copyright & License ❤
 
