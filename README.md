@@ -88,7 +88,7 @@ Nico_Joy ( From Fastssh ) For Helping / Giving Solution In Creating This Script
 <b>Licensed under the terms of the ( GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 )</b>
 
 ### ⏩ Usage / Installation ⏪
-> rm -f setup.sh && wget https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/setup.sh && chmod +x setup.sh && ./setup.sh
+> mkdir -p /etc/wildysheverando && rm -f setup.sh && wget https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/setup.sh && chmod +x setup.sh && ./setup.sh
 
 ### ➕ DONATION & Develop This Project ➕
 <B>If you want to help develop this project, you can donate as sincere as possible</B>
