@@ -1,8 +1,9 @@
-
+<p align="center">
 <a href="https://github.com/wildysheverando-project/autoscript/">
    <center><img src="Image/os.png"></center>
 </a>
-    
+</p>
+
 ## ❗ OS Supported Information ❗
 <b>
 > ✔ Debian 8 (X86_64) (X86) (X64)<br>
