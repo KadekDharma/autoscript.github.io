@@ -8,9 +8,9 @@
 > ✔ Ubuntu 18.04 (X86_64) (X86) (X64)<br>
 > ✔ Ubuntu 20.04 (X86_64) (X86) (X64)<br>
 > ✔ Ubuntu 20.10 (X86_64) (X86) (X64)<br>
-> ❌ Centos 6 ( Not Supported )
-> ❌ Centos 7 ( Not Supported )
-> ❌ Centos 8 ( Not Supported ) 
+> ❌ Centos 6 ( Not Supported )<br>
+> ❌ Centos 7 ( Not Supported )<br>
+> ❌ Centos 8 ( Not Supported ) <br>
 
 ### Copyright & License 
 
