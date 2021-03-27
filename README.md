@@ -70,8 +70,10 @@
 ❌ IF I KNOW SELLING THIS SCRIPT I WILL TURN OFF THIS SCRIPT <br>
 </b>
 
-### 
-Thank Very Much To Horas & The Hoster For Helping / Giving Solution In Creating This Script
+### 😍 THANKS ( NOTES ) 😍
+<b>
+Thank Very Much To Horas Siregar & The Hoster & Nico_Joy For Helping / Giving Solution In Creating This Script
+</b>
 
 ### ❤ Copyright & License ❤
 
