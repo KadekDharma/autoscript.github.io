@@ -14,5 +14,5 @@
 
 ### Copyright & License 
 
-* © Copyright 2021 by WildySheverando (https://github.com/wildysheverando-project/autoscript) 
-* Licensed under the terms of the ( GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 )
+© Copyright 2021 by WildySheverando (https://github.com/wildysheverando-project/autoscript) 
+Licensed under the terms of the ( GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 )
