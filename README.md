@@ -1,5 +1,5 @@
 
-## OS Supported Information
+## ❗ OS Supported Information ❗
 
 > ✔ Debian 8 (X86_64) (X86) (X64)<br>
 > ✔ Debian 9 (X86_64) (X86) (X64)<br>
@@ -12,7 +12,7 @@
 > ❌ Centos 7 ( Not Supported )<br>
 > ❌ Centos 8 ( Not Supported ) <br>
 
-### Copyright & License 
+### ❤ Copyright & License ❤
 
-© Copyright 2021 by WildySheverando (https://github.com/wildysheverando-project/autoscript) 
-Licensed under the terms of the ( GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 )
+© Copyright 2021 by WildySheverando (https://github.com/wildysheverando-project/autoscript) <br>
+<b>Licensed under the terms of the ( GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 )</b>
