@@ -37,6 +37,8 @@
 > ✔ Multi User On 1 Port ( V2Ray )<br>
 > ✔ Multi User On 1 Port ( Trojan )<br>
 > ✔ AutoReboot 01:00 ( WIB / Indonesian - Jakarta Time )<br>
+> ✔ Ram Usage Checking<br>
+> ✔ AutoExpired SSH User On 01:00 ( WIB / Indonesian - Jakarta Time )<br>
 </b>
 
 ## 🔰 Port Information 🔰
