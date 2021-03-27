@@ -65,7 +65,9 @@
 </b>
 
 ### PLEASE READ AFTER USE THIS SCRIPT
-> ❌ THIS SCRIPT IS NOT FOR SALE ( FREE FOR PERSONAL USE ) <br> 
+<b>
+❌ THIS SCRIPT IS NOT FOR SALE ( FREE FOR PERSONAL USE ) <br> 
+</b>
 
 ### ❤ Copyright & License ❤
 
