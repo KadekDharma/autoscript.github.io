@@ -12,8 +12,32 @@
 > ❌ Centos 7 ( Not Supported )<br>
 > ❌ Centos 8 ( Not Supported ) <br>
 
+## 🔰 Feature Script 🔰
+> ✔ SSH / Tunneling
+> ✔ Dropbear 2018 
+> ✔ Stunnel 4
+> ✔ Squid3
+> ✔ V2Ray 4.36.2
+> ✔ Trojan-gfw 1.16.0
+> ✔ DDOS Flate 
+> ✔ AutoExpired User ( SSH )
+> ✔ Userdel ( SSH )
+> ✔ Userdel ( Trojan )
+> ✔ Userdel ( V2Ray )
+> ✔ Useradd ( SSH )
+> ✔ Useradd ( Trojan )
+> ✔ Useradd ( V2Ray )
+> ✔ CreateTrial ( SSH )
+> ✔ CreateTrial ( Trojan )
+> ✔ CreateTrial ( V2Ray )
+> ✔ CheckUser Login ( SSH )
+> ✔ Speedtest CLI ( By speedtest.net )
+> ✔ TLS ( 1.2 & 1.3 Supported ) 
+> ✔ Multi User On 1 Port ( V2Ray )
+> ✔ Multi User On 1 Port ( Trojan )
+> ✔ AutoReboot 01:00 ( WIB / Indonesian - Jakarta Time )
 
-## ❗ Port Information ❗
+## 🔰 Port Information 🔰
 > 🔸 Port 22 = OpenSSH<br>
 > 🔸 Port 110 = DropBear<br>
 > 🔸 Port 143 = DropBear<br>
