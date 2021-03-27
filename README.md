@@ -1,6 +1,6 @@
 
 ## ❗ OS Supported Information ❗
-
+<b>
 > ✔ Debian 8 (X86_64) (X86) (X64)<br>
 > ✔ Debian 9 (X86_64) (X86) (X64)<br>
 > ✔ Debian 10 (X86_64) (X86) (X64)<br>
@@ -11,7 +11,7 @@
 > ❌ Centos 6 ( Not Supported )<br>
 > ❌ Centos 7 ( Not Supported )<br>
 > ❌ Centos 8 ( Not Supported ) <br>
-
+</b>
 ## 🔰 Feature Script 🔰
 <b>
 > ✔ SSH / Tunneling<br>
