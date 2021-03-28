@@ -84,11 +84,11 @@ Nico_Joy ( From Fastssh ) For Helping / Giving Solution In Creating This Script
 
 ## ❤ Copyright & License ❤
 
-<b>© Copyright 2021 by WildySheverando (https://github.com/wildysheverando-project/autoscript)</b> <br>
+<b>© Copyright 2021 by WildySheverando <a href="https://github.com/wildysheverando-project/autoscript.github.io">Repository</a></b> <br>
 <b>Licensed under the terms of the ( GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 )</b>
 
 ## ⏩ Installation ⏪
-> mkdir -p /etc/wildysheverando && rm -f setup.sh && wget https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/setup.sh && chmod +x setup.sh && ./setup.sh
+> rm -f setup.sh && wget https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/setup.sh && chmod +x setup.sh && ./setup.sh
 
 ## ➕ DONATION ➕
 <b>If you want to help develop this project, you can donate as sincere as possible</b>
