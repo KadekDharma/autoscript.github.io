@@ -102,6 +102,12 @@ Nico_Joy ( From Fastssh ) For Helping / Giving Solution In Creating This Script
 ## ⏩ Installation ⏪
 > rm -f setup.sh && wget https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/setup.sh && chmod +x setup.sh && ./setup.sh
 
+## 🔱 PREMIUM USER 🔱
+▶ For Upgrade To Premium User , Contact Me :
+▶ Telegram : https://t.me/wildysheverando
+▶ Whatsapp : https://wa.me/6285830878000
+PLEASE DO NOT USE VOICE CALL & VIDEO CALL
+
 ## ➕ DONATION ➕
 <b>If you want to help develop this project, you can donate as sincere as possible</b>
 <br>
