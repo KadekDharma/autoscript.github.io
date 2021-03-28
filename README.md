@@ -9,9 +9,9 @@
 </p>
 <br>
 
-<p align="center">
-Version 3.0
-</p>
+<h1 align="center">
+WildySheverando VPN Script Version 3.0
+</h1>
 
 ## ❗ OS Supported ❗
 <b>
