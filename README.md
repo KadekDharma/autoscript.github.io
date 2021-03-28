@@ -9,7 +9,7 @@
 </p>
 <br>
 
-## ❗ OS Supported Information ❗
+## ❗ OS Supported ❗
 <b>
 ✔ Debian 8 (X86_64) (X86) (X64)<br>
 ✔ Debian 9 (X86_64) (X86) (X64)<br>
@@ -70,31 +70,31 @@
 🔸 Port 7300 = BadVPN<br>
 </b>
 
-### 🚫 PLEASE READ AFTER USE THIS SCRIPT 🚫
+## 🚫 PLEASE READ 🚫
 <b>
 ❌ THIS SCRIPT IS NOT FOR SALE ( FREE FOR PERSONAL USE ) <br>
 ❌ IF I KNOW SELLING THIS SCRIPT I WILL TURN OFF THIS SCRIPT <br>
 </b>
 
-### 😍 THANKS ( NOTES ) 😍
+## 😍 THANKS 😍
 <b>
 Thank Very Much To Horas Siregar ( From VPNSTORES ) & The Hoster ( From Fastssh ) <br>
 Nico_Joy ( From Fastssh ) For Helping / Giving Solution In Creating This Script
 </b>
 
-### ❤ Copyright & License ❤
+## ❤ Copyright & License ❤
 
 <b>© Copyright 2021 by WildySheverando (https://github.com/wildysheverando-project/autoscript)</b> <br>
 <b>Licensed under the terms of the ( GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 )</b>
 
-### ⏩ Usage / Installation ⏪
+## ⏩ Installation ⏪
 > mkdir -p /etc/wildysheverando && rm -f setup.sh && wget https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/setup.sh && chmod +x setup.sh && ./setup.sh
 
-### ➕ DONATION & Develop This Project ➕
+## ➕ DONATION ➕
 <B>If you want to help develop this project, you can donate as sincere as possible</B>
 <b>
 <br>
 ▶ Paypal : paypal.me/wildyvpnscript<br>
-▶ Dana   : 0858-3087-8000
+▶ Dana   : 0858-3087-8000<br>
 <b>
-Thanks
+Thanks For Using My Script
