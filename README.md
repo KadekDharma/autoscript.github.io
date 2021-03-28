@@ -67,16 +67,16 @@ WildySheverando VPN Script Version 3.0
 
 ## 🔰 Port Information 🔰
 <b>
-🔸 Port 22 = OpenSSH<br>
-🔸 Port 110 = DropBear<br>
-🔸 Port 143 = DropBear<br>
-🔸 Port 443 = Stunnel4<br>
-🔸 Port 990 = Stunnel4<br>
+🔸 Port 22   = OpenSSH<br>
+🔸 Port 110  = DropBear<br>
+🔸 Port 143  = DropBear<br>
+🔸 Port 443  = Stunnel4<br>
+🔸 Port 990  = Stunnel4<br>
 🔸 Port 8080 = Squid<br>
 🔸 Port 3128 = Squid<br>
 🔸 Port 1945 = V2Ray HTTPS ( TLS V2Ray )<br>
-🔸 Port 80 = V2Ray HTTP ( NonTLS V2Ray )<br>
-🔸 Port 442 = Trojan TLS ( trojan-gfw )<br>
+🔸 Port 80   = V2Ray HTTP ( NonTLS V2Ray )<br>
+🔸 Port 442  = Trojan TLS ( trojan-gfw )<br>
 🔸 Port 7100 = BadVPN <br>
 🔸 Port 7200 = BadVPN<br>
 🔸 Port 7300 = BadVPN<br>
