@@ -91,10 +91,11 @@ Nico_Joy ( From Fastssh ) For Helping / Giving Solution In Creating This Script
 > mkdir -p /etc/wildysheverando && rm -f setup.sh && wget https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/setup.sh && chmod +x setup.sh && ./setup.sh
 
 ## ➕ DONATION ➕
-<B>If you want to help develop this project, you can donate as sincere as possible</B>
-<b>
+<b>If you want to help develop this project, you can donate as sincere as possible</b>
 <br>
+<b>
 ▶ Paypal : paypal.me/wildyvpnscript<br>
 ▶ Dana   : 0858-3087-8000<br>
+</b>
 <b>
 Thanks For Using My Script
