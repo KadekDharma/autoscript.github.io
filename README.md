@@ -7,11 +7,11 @@
   <img src="Image/os.png">
 </a>
 </p>
-<hr>
 <h2 align="center">
-WildySheverando VPN Script Version 3.0
-</h2>
 <hr>
+WildySheverando VPN Script Version 3.0
+<hr>
+</h2>
 
 ## ❗ OS Supported ❗
 <b>
