@@ -8,7 +8,11 @@
 </a><br>
 </p>
 <br>
-<center>Version 3,0</center>
+
+<p align="center">
+Version 3.0
+</p>
+
 ## ❗ OS Supported ❗
 <b>
 ✔ Debian 8 (X86_64) (X86) (X64)<br>
