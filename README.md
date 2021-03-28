@@ -8,7 +8,7 @@
 </a><br>
 </p>
 <br>
-
+<center>Version 3,0</center>
 ## ❗ OS Supported ❗
 <b>
 ✔ Debian 8 (X86_64) (X86) (X64)<br>
@@ -76,6 +76,7 @@
 🔸 Port 7100 = BadVPN <br>
 🔸 Port 7200 = BadVPN<br>
 🔸 Port 7300 = BadVPN<br>
+🔸 Port 2907 = Roaming Port <br>
 </b>
 
 ## 🚫 PLEASE READ 🚫
