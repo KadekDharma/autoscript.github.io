@@ -104,5 +104,5 @@ Nico_Joy ( From Fastssh ) For Helping / Giving Solution In Creating This Script
 ▶ Paypal : paypal.me/wildyvpnscript<br>
 ▶ Dana   : 0858-3087-8000<br>
 </b>
-<b>
-Thanks For Using My Script
+
+### Thanks For Using My Script
