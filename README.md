@@ -5,13 +5,13 @@
 <p align="center">
 <a href="https://github.com/wildysheverando-project/autoscript/">
   <img src="Image/os.png">
-</a><br>
+</a>
 </p>
 <br>
 
-<h1 align="center">
+<h2 align="center">
 WildySheverando VPN Script Version 3.0
-</h1>
+</h2>
 
 ## ❗ OS Supported ❗
 <b>
