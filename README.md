@@ -83,8 +83,7 @@ Nico_Joy ( From Fastssh ) For Helping / Giving Solution In Creating This Script
 </b>
 
 ## ❤ Copyright & License ❤
-
-<b>© Copyright 2021 by WildySheverando <a href="https://github.com/wildysheverando-project/autoscript.github.io">Repository</a></b> <br>
+<b>© Copyright 2021 by WildySheverando ( <a href="https://github.com/wildysheverando-project/autoscript.github.io">Repository</a> )</b> <br>
 <b>Licensed under the terms of the ( GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 )</b>
 
 ## ⏩ Installation ⏪
