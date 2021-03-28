@@ -50,6 +50,14 @@
 ✔ Multi User On 1 Port ( Trojan )<br>
 ✔ AutoReboot 01:00 ( WIB / Indonesian - Jakarta Time )<br>
 ✔ Ram Usage Checking<br>
+✔ CPU Usage Checking<br>
+✔ Ram Total Checking<br>
+✔ Ram Avaible Checking<br>
+✔ Storage Usage Checking<br>
+✔ Storage Total Checking<br>
+✔ Storage Avaible Checking<br>
+✔ Bandwidth Usage From Boot Checking<br>
+✔ ISP Detail Checking<br>
 ✔ AutoExpired SSH User On 01:00 ( WIB / Indonesian - Jakarta Time )<br>
 </b>
 
