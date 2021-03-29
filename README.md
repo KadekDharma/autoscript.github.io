@@ -7,6 +7,11 @@
   <img src="Image/os.png">
 </a>
 </p>
+<p align="center">
+<a href="https://github.com/wildysheverando-project/autoscript/">
+  <img src="https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/icons/addons%20v2ray%20trojan.png">
+</a>
+</p>
 <h2 align="center">
 <hr>
 WildySheverando VPN Script Version 3.0
