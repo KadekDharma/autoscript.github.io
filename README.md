@@ -40,7 +40,7 @@ WildySheverando VPN Script Version 3.0
 ## 🔰 Feature Script 🔰
 <b>
 ✔ SSH / Tunneling<br>
-✔ Dropbear 2018 <Br>
+✔ Dropbear 2017-2020 <Br>
 ✔ Stunnel 4<br>
 ✔ Squid3<br>
 ✔ V2Ray 4.36.2<br>
