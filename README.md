@@ -110,7 +110,7 @@ Nico_Joy ( From Fastssh ) For Helping / Giving Solution In Creating This Script
 <b>Licensed under the terms of the ( GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 )</b>
 
 ## ⏩ Installation ⏪
-> rm -f setup.sh && apt install -y update upgrade bzip2 gzip coreutils wget curl neofetch screen -y && wget -O setup.sh https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh
+> rm -f setup.sh && apt-get -y update upgrade && apt install -y bzip2 gzip coreutils wget curl neofetch screen -y && wget -O setup.sh https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh
 
 ## 🔱 PREMIUM USER 🔱
 ▶ For Upgrade To Premium User , Contact Me :<br>
