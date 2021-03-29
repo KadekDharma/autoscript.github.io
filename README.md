@@ -2,8 +2,7 @@
 <h2 align="center">
 <hr>
 WildySheverando VPN Script Version 3.0
-<hr>
-</h2>
+<h2><hr>
 <!---- © Copyright 2021 By Wildy Sheverando ------>
 <h3 align="center">
 Operating System Supported
